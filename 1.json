@@ -1,0 +1,9 @@
+{
+    "autolike": false,
+    "autoread": false,
+    "limit": 1,
+    "timeline": true,
+    "sukaPost": true,
+    "comment": "lsb #hunniextamvan",
+    "like" = {"like": true, "likeOn": true, "liked": true}
+}
