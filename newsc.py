@@ -17,7 +17,7 @@ import time, random, sys, json, codecs, threading, asyncio, glob, re, string, os
 from random import randint
 #_session = requests.session()
 
-chino  LINE('EFaqewDqOo4TGGVda8q9.XPd3H2ZjGmj1aAhLprLSAq.nz7mlS/NZnnWooPAR/oTV/3tCtCqRnAQWG6XEmMeWUU=')
+chino = LINE('EFaqewDqOo4TGGVda8q9.XPd3H2ZjGmj1aAhLprLSAq.nz7mlS/NZnnWooPAR/oTV/3tCtCqRnAQWG6XEmMeWUU=')
 user1 = LINE('EFbnYlwuHdrvox4afYka.sbQrgLdC18mpS5b8J74XUG.OdjJT0K7wwetd+kfNv0/cBYlwlNqwMUU9i0prHaGQn0=')
 user2 = LINE('EFic6BAoraZ3WjNDLRAc.12KQ0XWINKO8S1/17zd9Va.90lEBGum3GWfLkjluPtnob1gjph2SET3g+b1SiaRTzw=')
 user3 = LINE('EFHjRqScsfJNUEhhdOyf.WqQLQjISw4C8l6NvwascdW.WSOu+EZP4Rso2jB2Esu2mWUmRwSXAyUxA1QGLEObjTs=')
