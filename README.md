@@ -9,7 +9,7 @@ How to run ?
 
 Error? Pm Me
 ------
-https://line.me/ti/p/~agatis2
+https://line.me/ti/p/~welovebigbang
 
 
 # Forked Version
